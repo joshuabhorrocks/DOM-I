@@ -128,3 +128,4 @@ newNav2.textContent = "Really Bad Idea";
 newNav2.style.color = "green";
 const parentElement2 = document.querySelector("nav");
 parentElement2.appendChild(newNav2);
+
